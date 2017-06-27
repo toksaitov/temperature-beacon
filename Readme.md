@@ -30,10 +30,11 @@ Point the device to your [deployed](https://github.com/toksaitov/temperature-bac
 #define BEACON_ENDPOINT "http://example.com/record"
 ```
 
-Connect the device or a programmer, compile and upload the program.
+Connect the device or a programmer, compile, and upload the program.
 
-Ensure to [setup](https://github.com/toksaitov/temperature-sensor) the device to
-send temperature data to ESP8266.
+Ensure to [setup](https://github.com/toksaitov/temperature-sensor) an Arduino
+board with a DHT11 sensor to send temperature data to the ESP8266 being
+configured.
 
 ## Credits
 
