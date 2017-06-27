@@ -24,7 +24,7 @@ access point information for one or several networks (to fallback).
 #define ACCESS_POINT_3_PASSWORD "SSID 3 Password"
 ```
 
-Point the device to your deployed [back end](https://github.com/toksaitov/temperature-back).
+Point the device to your [deployed](https://github.com/toksaitov/temperature-back) back end.
 
 ```C
 #define BEACON_ENDPOINT "http://example.com/record"
